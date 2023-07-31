@@ -4,4 +4,8 @@ public class AbdulTestOne {
     public void AbdulTestOne{
 
     }
+
+    public void AbdulSecondTestFromOne{
+
+    }
 }
