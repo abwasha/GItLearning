@@ -1,0 +1,26 @@
+Git --help
+Git help <command>
+GIt init (initializes the local repo)
+GIt config user.name abdul
+Git config user.email a@aol.com
+Git config -l –local (Shows local configuration)
+Git ignore
+Git ls-files - -stage
+
+
+
+Snaphsot-Tree Object
+File-Blob Object
+Commit Object
+
+Git DVCS (Distributed Version Control System)is a file based index system with unique key value
+Commit>Snapshot>File
+When we commit, if new files are added, Git adds them to the File Object, compresses them
+and adds a hash to the snapshot object.
+When we commit, if NO new files are added, Git compresses the File Object and
+adds a hash to the snapshot object.
+
+Three states/Git Environments
+Modified      Staged (Packaging stage)         Commited Tree
+Working Tree   Staging Tree-binary file        Local Repository
+
