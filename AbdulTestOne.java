@@ -12,4 +12,8 @@ public class AbdulTestOne {
     public void AbdulSixthTestFromShafathRebase{
 
     }
+
+    public void AbdulSeventhTestFromShafathRebase{
+
+    }
 }
