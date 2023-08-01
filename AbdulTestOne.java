@@ -21,4 +21,8 @@ public class AbdulTestOne {
 
     @Test
     public void ShafathTestFour(){}
+
+    @Test
+    public void AmmendCommit(){
+    }
 }
