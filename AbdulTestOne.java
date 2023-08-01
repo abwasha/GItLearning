@@ -12,4 +12,13 @@ public class AbdulTestOne {
     public void AbdulSixthTestFromShafathRebase{
 
     }
+
+    public void AbdulSeventhTestFromShafathRebase{
+
+    }
+    @Test
+    public void ShafathTestThree(){}
+
+    @Test
+    public void ShafathTestFour(){}
 }
