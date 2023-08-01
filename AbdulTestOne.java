@@ -8,4 +8,7 @@ public class AbdulTestOne {
     public void AbdulSecondTestFromOne{
 
     }
+
+    @Test
+    public void ShafathTestThree(){}
 }
