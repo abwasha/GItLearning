@@ -23,6 +23,8 @@ public class AbdulTestOne {
     public void ShafathTestFour(){}
 
     @Test
+    public void AmmendCommit(){
+    }
     public void ShafathTestRebaseEight(){}
 
     @Test
