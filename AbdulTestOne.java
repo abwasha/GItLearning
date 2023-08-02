@@ -25,4 +25,11 @@ public class AbdulTestOne {
     @Test
     public void AmmendCommit(){
     }
+    public void ShafathTestRebaseEight(){}
+
+    @Test
+    public void ShafathTestRebaseNinth(){}
+
+    @Test
+    public void ShafathTestRebaseTenth(){}
 }
