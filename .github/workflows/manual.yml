@@ -1,11 +1,11 @@
 name: Custom Event Workflow
 on:
   repository_dispatch:
-    types: [custom_event]
+    types: [shariff_event]
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Print Payload
+      - name: Print Payload Shariff
         run: echo "Received payload:${{ toJson(github.event.client_payload) }}"
