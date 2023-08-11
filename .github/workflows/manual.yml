@@ -7,5 +7,5 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Print Payload Shariff
-        run: echo "Received payload:${{ toJson(github.event.client_payload) }}"
+      - name: Name Payload Shariff
+        run: echo "Echo Received payload to Shariff:${{ toJson(github.event.client_payload) }}"
